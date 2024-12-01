@@ -34,8 +34,8 @@ MODEL_OPTIONS = {
     "Inception v3": "inceptionv3.h5",
 }
 
-st.title("Visual Insight Assistant")
-st.header("Upload an image of food items and select a model")
+st.title("Food Insight Assistant")
+# st.header("Upload an image of food items and select a model")
 
 selected_model_name = st.selectbox("Select a Model for Prediction", list(MODEL_OPTIONS.keys()))
 selected_model_path = MODEL_OPTIONS[selected_model_name]

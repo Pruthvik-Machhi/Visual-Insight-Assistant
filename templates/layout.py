@@ -5,7 +5,7 @@ def footer():
     st.markdown("---")
     html_attribution = """
         <div style="background-color:#28a745;padding:10px;margin-bottom:10px">
-        <p style="color:white;text-align:center;font-size:20px;">Developed & Designed by Pruthvik Machhi and Tejas Sinroja</p>
+        <p style="color:white;text-align:center;font-size:20px;">Developed & Designed by Pruthvik Machhi</p>
         </div>
         """
     st.markdown(html_attribution, unsafe_allow_html=True)
