@@ -74,21 +74,27 @@ The scratch-built CNN was trained on the preprocessed dataset and optimized for 
 <p align="center">
   <img src="screenshots/VIA.png" alt="Screenshot 4">
 </p>
+
 ### CNN version 2
+
 <p align="center">
   <img src="screenshots/VIA (2).png" alt="Screenshot 4">
 </p>
 <p align="center">
   <img src="screenshots/VIA (3).png" alt="Screenshot 4">
 </p>
+
 ### CNN version 3
+
 <p align="center">
   <img src="screenshots/VIA (4).png" alt="Screenshot 4">
 </p>
 <p align="center">
   <img src="screenshots/VIA (5).png" alt="Screenshot 4">
 </p>
+
 ### CNN version 4
+
 <p align="center">
   <img src="screenshots/VIA (6).png" alt="Screenshot 4">
 </p>
