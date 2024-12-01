@@ -6,6 +6,12 @@ Many people face challenges in recognizing food items, especially those who are 
 
 This project aims to address these issues by developing a system that can identify food items from images. Once the food is identified, the system will provide useful insights, such as nutritional information and dietary recommendations.
 
+
+<p align="center">
+  <img src="screenshots/Screenshot 2024-12-01 131728.png" alt="Screenshot 1">
+</p>
+
+
 ## Features  
 
 1. **Food Classification**  
@@ -47,11 +53,61 @@ The food classification system was built using a **scratch-designed Convolutiona
 The scratch-built CNN was trained on the preprocessed dataset and optimized for accurate classification of food items for each categories.
 
 ### CNN version 1
-
+<p align="center">
+  <img src="screenshots/VIA (1).png" alt="Screenshot 4">
+</p>
+<p align="center">
+  <img src="screenshots/VIA.png" alt="Screenshot 4">
+</p>
 ### CNN version 2
+<p align="center">
+  <img src="screenshots/VIA (2).png" alt="Screenshot 4">
+</p>
+<p align="center">
+  <img src="screenshots/VIA (3).png" alt="Screenshot 4">
+</p>
 ### CNN version 3
+<p align="center">
+  <img src="screenshots/VIA (4).png" alt="Screenshot 4">
+</p>
+<p align="center">
+  <img src="screenshots/VIA (5).png" alt="Screenshot 4">
+</p>
 ### CNN version 4
+<p align="center">
+  <img src="screenshots/VIA (6).png" alt="Screenshot 4">
+</p>
+<p align="center">
+  <img src="screenshots/VIA (7).png" alt="Screenshot 4">
+</p>
 
+## Result
+
+<p align="center">
+  <img src="screenshots/VIA (9).png" alt="Screenshot 4">
+</p>
+
+- **CNNv1 and CNNv3**:
+  - Training accuracy: 27% (CNNv1) and 40% (CNNv3).
+  - Performance: Lower compared to other models.
+
+- **CNNv2**:
+  - Training accuracy: 55%.
+  - Validation accuracy: 55%.
+  - Simpler architecture but competitive performance.
+  - Identified as a promising candidate for further optimization.
+
+- **CNNv4**:
+  - Training accuracy: 72%.
+  - Validation accuracy: 66%.
+  - Showed improvement over CNNv2.
+  - Performance gap with CNNv2 smaller than expected, suggesting CNNv2 could be further optimized.
+
+- **Inception V3 (Pre-trained Model)**:
+  - Training accuracy: 92.44%.
+  - Validation accuracy: 92.37%.
+  - Best-performing model with remarkable accuracy.
+  - Outperformed all custom CNN models.
 
 
 
