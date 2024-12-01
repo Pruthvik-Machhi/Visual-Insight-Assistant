@@ -11,7 +11,22 @@ This project aims to address these issues by developing a system that can identi
   <img src="screenshots/Screenshot 2024-12-01 131728.png" alt="Screenshot 1">
 </p>
 
+## Git Clone and Run the App
 
+1. **Clone the Repository**
+
+2. **Install Dependencies**
+
+    ```
+    pip install -r requirements.txt
+    ```
+
+
+3. **Run the App**
+
+    ```
+    streamlit run main.py
+    ```
 ## Features  
 
 1. **Food Classification**  
