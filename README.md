@@ -8,7 +8,7 @@ This project aims to address these issues by developing a system that can identi
 
 
 <p align="center">
-  <img src="screenshots/Screenshot 2024-12-01 131728.png" alt="Screenshot 1">
+  <img src="screenshots/Screenshot 2024-12-01 134309.png" alt="Screenshot 1">
 </p>
 
 ## Git Clone and Run the App
